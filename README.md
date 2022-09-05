@@ -1,1 +1,1 @@
-0. Where am I?
+Where am I? This repo explain file permission and redirection
