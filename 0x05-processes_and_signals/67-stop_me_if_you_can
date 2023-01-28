@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# using pskill to terminate bash
+
+pskill -f 7-highlander
